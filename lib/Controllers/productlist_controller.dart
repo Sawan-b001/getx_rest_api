@@ -1,6 +1,5 @@
 import 'package:get/get.dart';
 import 'package:getx_rest_api/Services/remote_services.dart';
-
 import '../Model/product_model.dart';
 
 class ProductController extends GetxController {
